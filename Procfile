@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT tomcat_2261.wsgi:application
